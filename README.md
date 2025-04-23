@@ -1,1 +1,1 @@
-# equationsolver"# MythicBeastsChallenge" 
+# MythicBeastsChallenge" 
